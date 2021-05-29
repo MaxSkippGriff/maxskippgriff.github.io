@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "welcome to my site."
+title: "Hey, welcome to my site."
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -17,4 +17,4 @@ I'm currently building a Multiple Granularity Network (MGN) capable of re-identi
 
 Article Posts
 ------
-When I'm not coding, I love write. Most of my writing is on Medium. 
+When I'm not coding, I love write. Most of my articles are on Medium.

@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if https://philpapers.org/rec/GRIROC-4 %}
+  You can also find my articles on <u><a href="{{https://philpapers.org/rec/GRIROC-4}}">my philpapers profile</a>.</u>
 {% endif %}
 
 {% include base_path %}

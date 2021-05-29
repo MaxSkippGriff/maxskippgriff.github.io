@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an MSc Computer Science conversion student at the University of Bristol. I love clean design and well thought out UX/UI.
+I'm an MSc Computer Science conversion student at the University of Bristol. 
+
+I love clean design and simple UX/UI.
 
 Current Projects
 ======

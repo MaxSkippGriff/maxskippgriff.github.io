@@ -20,4 +20,4 @@ I'm currently building a Multiple Granularity Network (MGN) capable of re-identi
 
 Article Posts
 ------
-When I'm not coding, I love write. Most of my articles are on Medium.
+When I'm not coding, I love running, writing, and spending time with friends and family.
